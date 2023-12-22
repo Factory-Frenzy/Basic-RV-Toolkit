@@ -1,0 +1,16 @@
+{
+    "name": "com.factoryfrenzy.basicrvtoolkit.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:efd8915ca0004fc6afcfc9e501c25dac"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

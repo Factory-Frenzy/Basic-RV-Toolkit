@@ -1,0 +1,18 @@
+{
+  "name": "com.factoryfrenzy.basicrvtoolkit",
+  "version": "1.0.0",
+  "displayName": "Basic RV Toolkit",
+  "description": "This is an example package",
+  "unity": "2023.3",
+  "unityRelease": "15f1",
+  "documentationUrl": "https://github.com/Factory-Frenzy/basic-rv-toolkit",
+  "changelogUrl": "https://github.com/Factory-Frenzy/basic-rv-toolkit/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Factory-Frenzy/basic-rv-toolkit/LICENSE.md",
+  "dependencies": {
+    "com.unity.xr.interaction.toolkit": "2.5.2",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "repository": {
+    "url": "https://github.com/Factory-Frenzy/basic-rv-toolkit"
+  }
+}
